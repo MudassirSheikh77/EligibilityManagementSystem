@@ -1,2 +1,12 @@
-# EligibilityManagementSystem
-An ASP.NET Core MVC application to manage healthcare eligibility requests with full CRUD, approvals, filtering, and pagination. Built with clean layered architecture, validation, authentication, and a responsive Bootstrap UI.
+
+EligibilityManagement – ASP.NET Core MVC (.NET 8)
+
+Open EligibilityManagement.sln
+Set EligibilityManagement.Web as startup project
+Run the application
+
+This solution includes:
+- .sln file
+- all .csproj files
+- layered architecture
+- ready to extend with EF migrations

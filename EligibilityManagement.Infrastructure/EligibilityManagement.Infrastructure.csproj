@@ -1,0 +1,47 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\EligibilityManagement.Infrastructure.deps.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EligibilityManagement.Domain\EligibilityManagement.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Domain.dll" />
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Domain.pdb" />
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Infrastructure.dll" />
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Infrastructure.pdb" />
+    <None Include="obj\Debug\net8.0\Eligibil.F77FAD46.Up2Date" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.assets.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.csproj.FileListAbsolute.txt" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.dll" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Infrastructure.pdb" />
+    <None Include="obj\Debug\net8.0\refint\EligibilityManagement.Infrastructure.dll" />
+    <None Include="obj\Debug\net8.0\ref\EligibilityManagement.Infrastructure.dll" />
+    <None Include="obj\EligibilityManagement.Infrastructure.csproj.nuget.dgspec.json" />
+    <None Include="obj\EligibilityManagement.Infrastructure.csproj.nuget.g.props" />
+    <None Include="obj\EligibilityManagement.Infrastructure.csproj.nuget.g.targets" />
+    <None Include="obj\project.assets.json" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+</Project>

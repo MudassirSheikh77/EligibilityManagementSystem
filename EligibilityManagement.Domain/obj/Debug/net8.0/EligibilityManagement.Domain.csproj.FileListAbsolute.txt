@@ -1,0 +1,12 @@
+D:\Assignment\EligibilityManagement.Domain\bin\Debug\net8.0\EligibilityManagement.Domain.deps.json
+D:\Assignment\EligibilityManagement.Domain\bin\Debug\net8.0\EligibilityManagement.Domain.dll
+D:\Assignment\EligibilityManagement.Domain\bin\Debug\net8.0\EligibilityManagement.Domain.pdb
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.AssemblyInfoInputs.cache
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.AssemblyInfo.cs
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.sourcelink.json
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.dll
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\refint\EligibilityManagement.Domain.dll
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\EligibilityManagement.Domain.pdb
+D:\Assignment\EligibilityManagement.Domain\obj\Debug\net8.0\ref\EligibilityManagement.Domain.dll

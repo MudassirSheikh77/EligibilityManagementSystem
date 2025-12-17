@@ -1,0 +1,16 @@
+D:\Assignment\EligibilityManagement.Infrastructure\bin\Debug\net8.0\EligibilityManagement.Infrastructure.deps.json
+D:\Assignment\EligibilityManagement.Infrastructure\bin\Debug\net8.0\EligibilityManagement.Infrastructure.dll
+D:\Assignment\EligibilityManagement.Infrastructure\bin\Debug\net8.0\EligibilityManagement.Infrastructure.pdb
+D:\Assignment\EligibilityManagement.Infrastructure\bin\Debug\net8.0\EligibilityManagement.Domain.dll
+D:\Assignment\EligibilityManagement.Infrastructure\bin\Debug\net8.0\EligibilityManagement.Domain.pdb
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.AssemblyInfo.cs
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.sourcelink.json
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\Eligibil.F77FAD46.Up2Date
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.dll
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\refint\EligibilityManagement.Infrastructure.dll
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\EligibilityManagement.Infrastructure.pdb
+D:\Assignment\EligibilityManagement.Infrastructure\obj\Debug\net8.0\ref\EligibilityManagement.Infrastructure.dll

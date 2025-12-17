@@ -1,0 +1,30 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\EligibilityManagement.Domain.AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\EligibilityManagement.Domain.deps.json" />
+    <Content Include="obj\Debug\net8.0\EligibilityManagement.Domain.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\EligibilityManagement.Domain.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Domain.dll" />
+    <None Include="bin\Debug\net8.0\EligibilityManagement.Domain.pdb" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.assets.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.dll" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\EligibilityManagement.Domain.pdb" />
+    <None Include="obj\Debug\net8.0\refint\EligibilityManagement.Domain.dll" />
+    <None Include="obj\Debug\net8.0\ref\EligibilityManagement.Domain.dll" />
+    <None Include="obj\EligibilityManagement.Domain.csproj.nuget.g.props" />
+    <None Include="obj\EligibilityManagement.Domain.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+</Project>
